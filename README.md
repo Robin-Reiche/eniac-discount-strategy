@@ -54,10 +54,10 @@ eniac-discount-strategy/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/linkedIn_profile.git
+git clone https://github.com/Robin-Reiche/eniac-discount-strategy.git
 
 # Navigate to project
-cd linkedIn_profile/data/projects/group_projects/eniac-discount-strategy
+cd eniac-discount-strategy
 
 # Install dependencies
 pip install -r requirements.txt

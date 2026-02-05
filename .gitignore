@@ -28,3 +28,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+# Course materials (kept locally, not part of portfolio)
+case_study2_description.txt

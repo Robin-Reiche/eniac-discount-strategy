@@ -30,7 +30,7 @@ eniac-discount-strategy/
 │   ├── raw/                         # Original CSV files
 │   └── processed/                   # Cleaned/merged datasets
 ├── docs/
-│   └── case_study.pdf               # Original case study document
+│   └── case_study_final_presentation.pdf  # Final team presentation
 ├── requirements.txt
 └── README.md
 ```

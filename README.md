@@ -72,6 +72,7 @@ jupyter notebook notebooks/
 ```
 
 ## Data Description
+n**Source**: Provided by [WBS Coding School](https://www.wbscodingschool.com/) as course material
 
 | File | Description | Rows |
 |------|-------------|------|
